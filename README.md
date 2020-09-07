@@ -182,7 +182,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
-## Why use it?
+## [X] Why use it?
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
@@ -193,7 +193,7 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+## [xHow to use it
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
