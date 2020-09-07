@@ -65,8 +65,8 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
+- [What is it?](# [x] what-is-it)
+- [Why use it?](# [x] why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
@@ -182,7 +182,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
-## [X] Why use it?
+## [x] Why use it?
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
